@@ -1,16 +1,14 @@
-### Think-Sync Project
+### Think-Sync Project Overview
 
-This repository is part of the Think-Sync project, a calendar application aimed at exploring advanced topics in application development.
+**Repositories:**
 
-#### Repositories:
+1. [Link to App Repository](https://github.com/Him-anshuSharma/MVVM): Contains the code for the Android app. It uses MVVM architecture, and technologies like Android SDK, MongoDB, Retrofit, Room, and Kodein. It stores data using SQLite for offline use and sets event reminders using AlarmManager.
 
-1. [App Repository](https://github.com/Him-anshuSharma/MVVM): Contains the Android application codebase implementing MVVM architecture, utilizing Android SDK, MongoDB, Retrofit, Room, and Kodein for dependency injection, with data caching using SQLite and event notifications via AlarmManager.
-
-2. [Backend Repository](https://github.com/Him-anshuSharma/Auth): Houses the backend codebase built with ExpressJS and MongoDB, responsible for providing APIs to support the Think-Sync Android application, deployed on Render for seamless integration.
+2. [Link to Backend Repository](https://github.com/Him-anshuSharma/Auth): Holds the code for the backend server built with ExpressJS and MongoDB. It provides the necessary APIs for the Think-Sync app and is hosted on Render.
 
 #### Purpose:
 
-The purpose of this repository is to provide a central location for managing and coordinating the development efforts across the multiple repositories associated with the Think-Sync project.
+This repository serves as a central hub for managing development across all Think-Sync project repositories.
 
 #### Contributors:
 
@@ -18,4 +16,4 @@ The purpose of this repository is to provide a central location for managing and
 
 #### License:
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Please refer to the LICENSE file for more details.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the LICENSE file for details.
